@@ -21,7 +21,7 @@ Minisforum Space
             └── WinRing0x64.sys
 ```
 
-These files can be also extracted from the [official installer](https://www.minisforum.com/software/minisforum_space/update/win32/Minisforum%20Space%20Setup%201.0.4.exe) by opening the executable in 7-Zip and navigating to the `$PLUGINSDIR\app-64.7z\resources\assets\dll\` directory
+These files can be also extracted from the [official installer](https://pc-file.s3.us-west-1.amazonaws.com/V3/other+tool/Minisforum+Space.zip) by opening the executable in 7-Zip and navigating to the `$PLUGINSDIR\app-64.7z\resources\assets\dll\` directory
 
 ## Usage
 
